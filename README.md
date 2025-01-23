@@ -12,7 +12,7 @@ Users may run the following line in a command prompt to install the package in t
 pip install git+https://github.com/math-finance-book/pyDerivSecurities
 ```
 
-**Note:** users who wish to utilize this package in Google Colab can access this [tutorial](https://colab.research.google.com/drive/1qsl5pmzTNhIlLCDNGBQShsr8Mk_iMK1X?authuser=1#scrollTo=eex2mX90hFKZ) for help with installation in their Colab environment.
+**Note:** users who wish to utilize this package in Google Colab can access this [tutorial](https://colab.research.google.com/drive/1VIjURKA9bhYHdVcNgSTqRNwpkMDkTrw6?usp=sharing) for help with installation in their Colab environment.
 
 
 # Sample usage
